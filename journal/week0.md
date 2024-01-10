@@ -27,4 +27,5 @@
 
 ### Cruddur Logical Design
 
-[Link to lucid chart logical diagram](https://lucid.app/lucidchart/5514635b-3136-41bf-a2bf-3220b257b1bb/edit?page=0_0&invitationId=inv_43d16de7-dbd6-43e5-ba04-8d1db3d3032b#)
+[Lucid Chart Share Link](https://lucid.app/lucidchart/5514635b-3136-41bf-a2bf-3220b257b1bb/edit?viewport_loc=-3218%2C-1769%2C10950%2C8017%2C0_0&invitationId=inv_43d16de7-dbd6-43e5-ba04-8d1db3d3032b)
+
