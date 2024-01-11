@@ -29,3 +29,22 @@
 
 [Lucid Chart Share Link](https://lucid.app/lucidchart/5514635b-3136-41bf-a2bf-3220b257b1bb/edit?viewport_loc=-3218%2C-1769%2C10950%2C8017%2C0_0&invitationId=inv_43d16de7-dbd6-43e5-ba04-8d1db3d3032b)
 
+
+## List Example
+
+- This
+- Is
+- A
+- List
+
+1. This
+2. Is
+3. An
+4. Ordered
+5. List
+   
+## Table Example
+
+| My | Cool | Table |
+| --- | --- | --- |
+| Hello | World | ! |
